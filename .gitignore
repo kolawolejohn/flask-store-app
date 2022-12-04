@@ -1,0 +1,7 @@
+/__pycache__
+/venv
+.flaskenv
+*.pyc
+notes.txt
+/instance
+.DS_Store
